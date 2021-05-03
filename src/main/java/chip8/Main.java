@@ -3,6 +3,6 @@ package main.java.chip8;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("merge2");
+        Chip8 chip8 = new Chip8();
     }
 }
